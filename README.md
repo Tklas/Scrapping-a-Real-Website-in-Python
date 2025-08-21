@@ -49,4 +49,6 @@ Rate Limiting: Introduce delays between requests to avoid overwhelming the serve
 User Agents & Proxies: Rotate user agents or use proxy servers to mimic different browsers or locations.
  
 Error Handling: Implement try-except blocks to handle potential network errors or malformed HTML.
+
+
 Kindly click on the above link to see how I was able to scrap the website (List of The Largest Companies in The United State)
